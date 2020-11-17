@@ -3,7 +3,7 @@ import {
   kebabCase,
   pascalCase,
   snakeCase,
-} from './conversion-cases';
+} from './cases/conversion-cases';
 
 const conversionTypes = {
   camelCase,
